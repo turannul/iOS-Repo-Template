@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: iphoneos-arm64
+Components: main
+Date: Fri, 17 Jun 2022 15:30:55 +0000
+Description: Description for Cydia / Installer 
+Label: Repo name 
+Origin: Repo name 
+Suite: stable
+Version: 2.0
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
+ ac966fbbf2311a8488686c9ad14f19db               29 Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 Packages.xz
+ 5d80401e01d33084c65e94f93351e94c               13 Packages.zst
+ 6452a3b541ec7f460ebf14db76341247              220 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
+ 40c116abf3d399e4514ef5a23f0d08e6366a0dfd               29 Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 Packages.xz
+ fb2e51cbd24e286dd066bd419d77cd772967e384               13 Packages.zst
+ c19ff46723cdf0964988ee08010f923ecc20f94b              220 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
+ a28f7b61e410bef3f6c06e17e5d7c400af41bf79bd8e46512c181acf299a4469               29 Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 Packages.xz
+ f96deff1816083fdff8bc3e46c3fe6ca46a6bb49f4d5a00627616c13237a512c               13 Packages.zst
+ 44f6dc9efea05be9bf7c426e1bcfd73fbb87d807e8636cca237bf3d9fa506ae7              220 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 Packages.bz2
+ c0fbce271b64e88672f5e75baa201e3c7f17c3f5d91279962bdc05d28ccaffce7100a1123060e4bbfcbf030a406403e2889d34f828e41f72e46887b16f35c92e               29 Packages.gz
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 Packages.xz
+ 654b3bc259db923bca2fb5ac8d8c2aa5ceddf594cce152d2a467850ae092317206e3bea307c8528e05442811f5ef8c4ccb9daa4da2a56ddc7f436c6ee1aee7d0               13 Packages.zst
+ 315665526732a9c0e8d8a691e60958efe970a2b4aa91ed11d0d27dc3277c5e5ba00b57af58418a231a54ec932d71d50db405eba3b80ce07c0cc652dc6c2dbce9              220 Release
